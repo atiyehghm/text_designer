@@ -2,4 +2,4 @@
 
 student id: 95105732
 
-![image app](/screenshots/2020-03-24 18.59.16.jpg)
+![image app](https://github.com/atiyehghm/text_designer/blob/master/screenshots/2020-03-24%2018.59.16.jpg)
