@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Text Designer</string>
+    <string name="welcome_message">Welcome User</string>
 </resources>
