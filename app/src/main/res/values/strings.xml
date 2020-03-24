@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Text Designer</string>
-    <string name="welcome_message">Welcome User</string>
+    <string name="welcome_message">select a design:</string>
+    <string name="sample_text"> This is your sample Text</string>
+    <string name="shadow"> Shadow </string>
+    <string name="blocky"> Blocky </string>
+    <string name="glow">Glow</string>
 </resources>
